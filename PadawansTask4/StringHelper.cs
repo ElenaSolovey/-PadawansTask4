@@ -7,8 +7,11 @@ namespace PadawansTask4
         public static int GetVowelCount(string str)
         {
             if(str == null)
-                            throw new NullReferenceException();
-            
+                            throw new ArgumentNullException();
+
+            if (str == "")
+
+                throw new ArgumentException();
 
             int count = 0;
             string letters = "aAiIoOeEuU";
