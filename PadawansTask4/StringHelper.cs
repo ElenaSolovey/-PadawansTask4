@@ -7,7 +7,7 @@ namespace PadawansTask4
         public static int GetVowelCount(string str)
         {
             if(str == null)
-                            throw new ArgumentNullException();
+                            throw new NullReferenceException();
             
 
             int count = 0;
