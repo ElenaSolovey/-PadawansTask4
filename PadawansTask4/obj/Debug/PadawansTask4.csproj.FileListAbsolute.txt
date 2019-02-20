@@ -1,0 +1,10 @@
+/Users/Alena/Documents/GitHub/-PadawansTask4/PadawansTask4/bin/Debug/PadawansTask4.dll
+/Users/Alena/Documents/GitHub/-PadawansTask4/PadawansTask4/bin/Debug/PadawansTask4.pdb
+/Users/Alena/Documents/GitHub/-PadawansTask4/PadawansTask4/bin/Debug/nunit.framework.dll
+/Users/Alena/Documents/GitHub/-PadawansTask4/PadawansTask4/bin/Debug/nunit.framework.pdb
+/Users/Alena/Documents/GitHub/-PadawansTask4/PadawansTask4/bin/Debug/nunit.framework.xml
+/Users/Alena/Documents/GitHub/-PadawansTask4/PadawansTask4/obj/Debug/PadawansTask4.csprojAssemblyReference.cache
+/Users/Alena/Documents/GitHub/-PadawansTask4/PadawansTask4/obj/Debug/PadawansTask4.csproj.CoreCompileInputs.cache
+/Users/Alena/Documents/GitHub/-PadawansTask4/PadawansTask4/obj/Debug/PadawansTask4.csproj.CopyComplete
+/Users/Alena/Documents/GitHub/-PadawansTask4/PadawansTask4/obj/Debug/PadawansTask4.dll
+/Users/Alena/Documents/GitHub/-PadawansTask4/PadawansTask4/obj/Debug/PadawansTask4.pdb
